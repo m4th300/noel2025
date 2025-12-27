@@ -1,4 +1,4 @@
-const ACCESS_CODE = "1234";
+const ACCESS_CODE = "amorluv112401noel";
 
 const overlay = document.getElementById("overlay");
 const content = document.getElementById("content");
